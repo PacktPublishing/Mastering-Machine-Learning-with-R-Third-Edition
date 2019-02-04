@@ -1,0 +1,591 @@
+type,state,regiment_or_battery,brigade,division,corps,army,july1_Commander,Cdr_casualty,men,killed,wounded,captured,missing,total_casualties,3inch_rifles,4.5inch_rifles,10lb_parrots,12lb_howitzers,12lb_napoleons,6lb_howitzers,24lb_howitzers,20lb_parrots,12lb_whitworths,14lb_rifles,total_guns
+Infantry,Indiana,19th,Meredith,Wadsworth,Reynolds,Union,COL Samuel Williams,no,308,33,126,2,52,213,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Michigan,24th,Meredith,Wadsworth,Reynolds,Union,COL Henry Morrow,wounded,496,96,186,13,76,371,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Wisconsin,2nd,Meredith,Wadsworth,Reynolds,Union,COL Lucius Fairchild,wounded,302,45,135,18,42,240,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Wisconsin,6th,Meredith,Wadsworth,Reynolds,Union,LTC Rufus Dawes,no,344,39,110,3,22,174,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Wisconsin,7th,Meredith,Wadsworth,Reynolds,Union,COL William Robinson,wounded-captured,364,37,102,3,43,185,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Indiana,7th,Cutler,Wadsworth,Reynolds,Union,COL Ira Grover,no,434,2,4,0,3,9,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,76th,Cutler,Wadsworth,Reynolds,Union,MAJ Andrew Grover,killed,375,53,122,6,35,216,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,"84th,  14th Brooklyn",Cutler,Wadsworth,Reynolds,Union,COL Edward Fowler,no,318,25,94,2,97,218,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,95th,Cutler,Wadsworth,Reynolds,Union,COL George Biddle,wounded,241,11,63,1,42,117,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,147th,Cutler,Wadsworth,Reynolds,Union,LTC Francis Miller,wounded,380,80,124,9,71,284,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,56th,Cutler,Wadsworth,Reynolds,Union,COL William Hofmann,no,252,21,52,0,56,129,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Maine,16th,Paul,Robinson,Reynolds,Union,COL Charles Tilden,captured,298,25,46,13,157,241,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,13th,Paul,Robinson,Reynolds,Union,COL Samuel Leonard,wounded,284,24,60,7,105,196,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,94th,Paul,Robinson,Reynolds,Union,COL Adrian Root,wounded-captured,411,17,38,21,164,240,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,104th,Paul,Robinson,Reynolds,Union,COL Gilbert Prey,no,286,32,73,5,84,194,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,107th,Paul,Robinson,Reynolds,Union,LTC James MacThomson,wounded,255,21,58,1,91,171,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,12th,Baxter,Robinson,Reynolds,Union,COL James Bates,wounded,261,13,45,3,66,127,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,"83rd,  9th Militia",Baxter,Robinson,Reynolds,Union,LTC Joseph Meosch,no,199,7,21,2,62,92,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,97th,Baxter,Robinson,Reynolds,Union,COL Charles Wheelock,wounded,236,19,34,5,77,135,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,11th,Baxter,Robinson,Reynolds,Union,COL Richard Coulter,wounded,270,13,62,3,58,136,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,88th,Baxter,Robinson,Reynolds,Union,MAJ Benezet Foust,wounded,273,10,52,0,48,110,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,90th,Baxter,Robinson,Reynolds,Union,COL Peter Lyle,no,208,12,42,0,36,90,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,121st,Rowley,Doubleday,Reynolds,Union,COL Chapman Biddle,wounded,263,29,89,5,51,174,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,142nd,Rowley,Doubleday,Reynolds,Union,COL Robert Cummins,mortally wounded,336,46,105,4,68,223,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,151st,Rowley,Doubleday,Reynolds,Union,LTC George McFarland,wounded,467,80,139,86,82,387,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,"80th,  20th Militia",Rowley,Doubleday,Reynolds,Union,COL Theodore Gates,no,287,38,88,22,32,180,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,143rd,Stone,Doubleday,Reynolds,Union,COL Edmund Dana,no,465,40,106,0,105,251,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,149th,Stone,Doubleday,Reynolds,Union,LTC Walton Dwight,wounded,450,67,181,5,59,312,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,150th,Stone,Doubleday,Reynolds,Union,COL Langhorne Wister,wounded,400,56,146,15,75,292,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Vermont,13th,Stannard,Doubleday,Reynolds,Union,COL Francis Randall,no,636,22,85,0,24,131,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Vermont,14th,Stannard,Doubleday,Reynolds,Union,COL William Nichols,no,647,30,70,0,18,118,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Vermont,16th,Stannard,Doubleday,Reynolds,Union,COL Wheelock Veazey,no,661,25,82,0,20,127,0,0,0,0,0,0,0,0,0,0,0
+Artillery,US,"Battery B,  4th",Wainwright,Artillery_Bde,Reynolds,Union,LT James Stewart,no,123,4,28,1,3,36,0,0,0,0,6,0,0,0,0,0,6
+Artillery,Maine,"Battery B,  2nd  Light",Wainwright,Artillery_Bde,Reynolds,Union,CPT James Hall,no,117,0,17,0,1,18,6,0,0,0,0,0,0,0,0,0,6
+Artillery,Maine,"Battery E,  5th  Light",Wainwright,Artillery_Bde,Reynolds,Union,CPT Greenleaf Stevens,wounded,119,4,12,0,6,22,0,0,0,0,6,0,0,0,0,0,6
+Artillery,New York,"Battery E and L,  1st  Light",Wainwright,Artillery_Bde,Reynolds,Union,CPT Gilbert Reynolds,wounded,124,2,14,0,0,16,6,0,0,0,0,0,0,0,0,0,6
+Artillery,Pennsylvania,"Battery B,  1st  Light",Wainwright,Artillery_Bde,Reynolds,Union,CPT James Cooper,no,106,3,9,0,0,12,4,0,0,0,0,0,0,0,0,0,4
+Infantry,New Hampshire,5th,Cross,Caldwell,Hancock,Union,LTC Charles Hapgood,no,179,33,50,0,0,83,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,61st,Cross,Caldwell,Hancock,Union,LTC K Oscar Broady,no,104,16,46,0,0,62,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,81st,Cross,Caldwell,Hancock,Union,LTC Amos Stroh,no,175,12,46,0,4,62,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,148th,Cross,Caldwell,Hancock,Union,LTC Robert McFarlane,no,392,30,102,2,3,137,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,28th,Kelly,Caldwell,Hancock,Union,COL Richard Byrnes,no,224,13,58,5,30,106,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,63rd,Kelly,Caldwell,Hancock,Union,LTC Richard Bentley,wounded,75,8,8,1,5,22,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,69th,Kelly,Caldwell,Hancock,Union,CPT Richard Moroney,wounded,75,4,19,1,4,28,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,88th,Kelly,Caldwell,Hancock,Union,CPT Denis Burke,no,90,6,17,1,4,28,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,116th,Kelly,Caldwell,Hancock,Union,MAJ St. Clair Mulholland,no,66,11,20,1,5,37,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,52nd,Zook,Caldwell,Hancock,Union,LTC Charles Freudenberg,wounded,134,5,23,1,8,37,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,57th,Zook,Caldwell,Hancock,Union,LTC Alford Chapman,no,175,5,26,3,1,35,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,66th,Zook,Caldwell,Hancock,Union,COL Orlando Morris,wounded,147,7,31,0,10,48,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,140th,Zook,Caldwell,Hancock,Union,COL Richard Roberts,killed,514,60,132,6,32,230,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Connecticut,27th,Brooke,Caldwell,Hancock,Union,LTC Henry Merwin,killed,75,21,13,2,3,39,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Delaware,2nd,Brooke,Caldwell,Hancock,Union,COL William Baily,no,234,17,55,0,12,84,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,64th,Brooke,Caldwell,Hancock,Union,COL Daniel Bingham,wounded,204,24,60,0,18,102,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,53rd,Brooke,Caldwell,Hancock,Union,LTC Richard McMichael,no,135,14,62,1,2,79,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,145th,Brooke,Caldwell,Hancock,Union,COL Hiram Brown,wounded,202,26,52,0,7,85,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Maine,19th,Harrow,Gibbon,Hancock,Union,COL Francis Heath,no,439,66,145,0,0,211,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,15th,Harrow,Gibbon,Hancock,Union,COL George Ward,mortally wounded,239,35,80,1,28,144,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Minnesota,1st,Harrow,Gibbon,Hancock,Union,COL William Covill,wounded,297,75,161,1,0,237,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Minnesota,"2nd  Co,  sharpshooters",Harrow,Gibbon,Hancock,Union,CPT Nathan Messick,killed,33,1,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,82nd,Harrow,Gibbon,Hancock,Union,LTC James Huston,killed,355,58,130,1,10,199,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,69th,Webb,Gibbon,Hancock,Union,COL Dennis O'Kane,mortally wounded,284,55,73,0,16,144,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,71st,Webb,Gibbon,Hancock,Union,COL Richard Penn Smith,no,261,25,57,1,19,102,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,72nd,Webb,Gibbon,Hancock,Union,COL De Witt Baxter,wounded,380,65,132,0,0,197,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,106th,Webb,Gibbon,Hancock,Union,LTC William Curry,no,280,11,52,1,1,65,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,19th,Hall,Gibbon,Hancock,Union,COL Arthur Devereux,no,163,15,65,0,1,81,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,20th,Hall,Gibbon,Hancock,Union,COL Paul Revere,mortally wounded,243,43,80,3,2,128,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Michigan,7th,Hall,Gibbon,Hancock,Union,"LTC Amos Steele, Jr.",killed,165,25,42,0,0,67,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,42nd,Hall,Gibbon,Hancock,Union,COL James Mallon,no,197,28,47,1,0,76,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,59th,Hall,Gibbon,Hancock,Union,LTC Max Thoman,mortally wounded,152,12,27,0,1,40,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,"1st  Co,  sharpshooters",Hall,Gibbon,Hancock,Union,CPT William Plumer,no,50,4,4,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Indiana,14th,Carroll,Hays,Hancock,Union,COL John Coons,no,191,9,22,0,0,31,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Ohio,4th,Carroll,Hays,Hancock,Union,LTC Leonard Carpenter,no,299,12,15,0,6,33,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Ohio,8th,Carroll,Hays,Hancock,Union,LTC Franklin Sawyer,no,209,28,76,0,1,105,0,0,0,0,0,0,0,0,0,0,0
+Infantry,West Virginia,7th,Carroll,Hays,Hancock,Union,LTC Jonathan Lockwood,no,234,9,34,0,1,44,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Connecticut,14th,Smyth,Hays,Hancock,Union,MAJ Theodore Ellis,no,172,14,50,1,4,69,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Delaware,1st,Smyth,Hays,Hancock,Union,LTC Edward Harris,no,251,15,49,0,13,77,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New Jersey,12th,Smyth,Hays,Hancock,Union,MAJ John Hill,no,444,27,81,0,9,117,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,108th,Smyth,Hays,Hancock,Union,LTC Francis Pierce,no,200,19,90,0,0,109,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,39th,Willard,Hays,Hancock,Union,MAJ Hugo Hildebrandt,wounded,269,25,68,1,0,94,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,111th,Willard,Hays,Hancock,Union,COL Clinton MacDougall,wounded,390,100,145,1,4,250,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,125th,Willard,Hays,Hancock,Union,LTC Levin Crandell,no,392,41,98,1,8,148,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,126th,Willard,Hays,Hancock,Union,COL Eliakim Sherrill,mortally wounded,455,65,162,3,4,234,0,0,0,0,0,0,0,0,0,0,0
+Artillery,US,"Battery I,  1st",Hazard,Artillery_Bde,Hancock,Union,LT George Woodruff,mortally wounded,112,5,20,0,0,25,0,0,0,0,6,0,0,0,0,0,6
+Artillery,US,"Battery A,  4th",Hazard,Artillery_Bde,Hancock,Union,LT Alonzo Cushing,killed,126,10,31,0,0,41,6,0,0,0,0,0,0,0,0,0,6
+Artillery,New York,"Battery B,  1st  Light",Hazard,Artillery_Bde,Hancock,Union,LT Albert Sheldon,wounded,117,11,15,0,0,26,0,0,4,0,0,0,0,0,0,0,4
+Artillery,Rhode Island,"Battery A,  1st  Light",Hazard,Artillery_Bde,Hancock,Union,CPT William Arnold,no,117,5,29,0,0,34,6,0,0,0,0,0,0,0,0,0,6
+Artillery,Rhode Island,"Battery B,  1st  Light",Hazard,Artillery_Bde,Hancock,Union,LT T. Fred Brown,wounded,129,7,18,0,2,27,0,0,0,0,6,0,0,0,0,0,6
+Infantry,Pennsylvania,57th,Graham,Birney,Sickles,Union,COL Peter Sides,wounded,207,18,41,2,54,115,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,63rd,Graham,Birney,Sickles,Union,MAJ John Danks,no,246,3,29,0,3,35,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,68th,Graham,Birney,Sickles,Union,COL Andrew Tippin,no,320,46,94,1,10,151,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,105th,Graham,Birney,Sickles,Union,COL Calvin Craig,no,274,20,106,1,4,131,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,114th,Graham,Birney,Sickles,Union,LTC Frederick Cavada,captured,259,20,74,1,54,149,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,141st,Graham,Birney,Sickles,Union,COL Henry Madill,no,209,48,91,2,12,153,0,0,0,0,0,0,0,0,0,0,0
+Infantry,US,"1st,  Sharpshooters",Ward,Birney,Sickles,Union,COL Hiram Berdan,no,312,10,34,3,10,57,0,0,0,0,0,0,0,0,0,0,0
+Infantry,US,2nd  Sharpshooters,Ward,Birney,Sickles,Union,MAJ Homer Stoughton,no,169,7,21,2,17,47,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Indiana,20th,Ward,Birney,Sickles,Union,COL John Wheeler,killed,401,40,98,0,22,160,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Maine,3rd,Ward,Birney,Sickles,Union,COL Moses Lakeman,no,210,31,52,3,40,126,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Maine,4th,Ward,Birney,Sickles,Union,COL Elijah Walker,wounded,287,24,47,7,67,145,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,86th,Ward,Birney,Sickles,Union,LTC Benjamin Higgins,no,287,20,44,1,5,70,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,124th,Ward,Birney,Sickles,Union,COL Augustus Van Horne Ellis,killed,238,35,58,2,2,97,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,99th,Ward,Birney,Sickles,Union,MAJ John Moore,no,277,44,60,3,7,114,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Maine,17th,de Trobriand,Birney,Sickles,Union,LTC Charles Merrill,no,350,41,93,1,1,136,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Michigan,3rd,de Trobriand,Birney,Sickles,Union,LTC Byron Pierce,wounded,238,12,25,0,6,43,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Michigan,5th,de Trobriand,Birney,Sickles,Union,LTC John Pulford,wounded,216,30,74,1,7,112,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,40th,de Trobriand,Birney,Sickles,Union,COL Thomas Egan,wounded,431,39,121,1,7,168,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,110th,de Trobriand,Birney,Sickles,Union,LTC David Jones,wounded,152,18,34,0,0,52,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,1st,Carr ,Humphreys,Sickles,Union,LTC Clark Baldwin,wounded,321,35,77,0,32,144,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,11th,Carr ,Humphreys,Sickles,Union,LTC Porter Tripp,no,286,38,91,0,17,146,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,16th,Carr ,Humphreys,Sickles,Union,LTC Waldo Merriam,wounded,245,20,50,1,21,92,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New Hampshire,12th,Carr ,Humphreys,Sickles,Union,CPT John Langley,no,224,26,60,1,19,106,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New Jersey,11th,Carr ,Humphreys,Sickles,Union,COL Robert McAllister,wounded,275,38,112,0,6,156,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,26th,Carr ,Humphreys,Sickles,Union,MAJ Robert Bodine,no,365,62,146,1,6,215,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,70th,Brewster,Humphreys,Sickles,Union,COL J. Egbert Farnum,no,288,42,79,0,0,121,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,71st,Brewster,Humphreys,Sickles,Union,COL Henry Potter,wounded,243,17,66,0,9,92,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,72nd,Brewster,Humphreys,Sickles,Union,COL John Austin,wounded,305,15,85,1,10,111,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,73rd,Brewster,Humphreys,Sickles,Union,MAJ Michael Burns,no,349,59,88,1,8,156,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,74th,Brewster,Humphreys,Sickles,Union,LTC Thomas Holt,no,266,22,68,2,0,92,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,120th,Brewster,Humphreys,Sickles,Union,LTC Cornelius Westbrook,wounded,383,49,151,0,10,210,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New Hampshire,2nd,Burling,Humphreys,Sickles,Union,COL Edward Bailey,no,354,47,104,12,30,193,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New Jersey,5th,Burling,Humphreys,Sickles,Union,COL William Sewell,wounded,206,22,59,1,11,93,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New Jersey,6th,Burling,Humphreys,Sickles,Union,LTC Stephen Gilkyson,no,207,6,29,0,6,41,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New Jersey,7th,Burling,Humphreys,Sickles,Union,COL Louis Francine,mortally wounded,275,24,78,0,12,114,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New Jersey,8th,Burling,Humphreys,Sickles,Union,COL John Ramsey,wounded,170,15,31,1,1,48,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,115th,Burling,Humphreys,Sickles,Union,MAJ John Dunne,no,151,6,16,0,3,25,0,0,0,0,0,0,0,0,0,0,0
+Artillery,US,"Battery K,  4th  Light",Randolph,Artillery_Bde,Sickles,Union,LT Francis Seeley,wounded,113,4,17,0,4,25,0,0,0,0,6,0,0,0,0,0,6
+Artillery,New Jersey,"Battery B,  1st  Light",Randolph,Artillery_Bde,Sickles,Union,CPT Judson Clark,no,131,3,14,0,3,20,0,0,6,0,0,0,0,0,0,0,6
+Artillery,New York,"Battery D,  1st  Light",Randolph,Artillery_Bde,Sickles,Union,CPT George Winslow,no,116,1,9,0,8,18,0,0,0,0,6,0,0,0,0,0,6
+Artillery,New York,"Battery 4th,   Light",Randolph,Artillery_Bde,Sickles,Union,CPT James Smith,no,126,2,10,0,1,13,0,0,6,0,0,0,0,0,0,0,6
+Artillery,Rhode Island,"Battery E,  1st  Light",Randolph,Artillery_Bde,Sickles,Union,LT John Bucklyn,wounded,108,5,23,1,1,30,0,0,0,0,6,0,0,0,0,0,6
+Infantry,Massachusetts,18th,Tilton,Barnes,Sykes,Union,COL Joseph Hayes,wounded,139,2,14,1,3,20,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,22nd,Tilton,Barnes,Sykes,Union,LTC Thomas Sherwin,no,137,11,23,0,3,37,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Michigan,1st,Tilton,Barnes,Sykes,Union,COL Ira Abbott,wounded,145,8,33,0,6,47,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,118th,Tilton,Barnes,Sykes,Union,LTC James Gwyn,no,233,6,9,0,5,20,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,9th,Sweitzer,Barnes,Sykes,Union,COL Patrick Guiney,no,412,2,11,0,2,15,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,32nd,Sweitzer,Barnes,Sykes,Union,COL George Prescott,no,242,22,62,1,3,88,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Michigan,4th,Sweitzer,Barnes,Sykes,Union,COL Harrison Jeffords,mortally wounded,342,43,61,7,67,178,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,62nd,Sweitzer,Barnes,Sykes,Union,LTC James Hull,no,426,37,102,1,31,171,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Maine,20th,Vincent,Barnes,Sykes,Union,COL Joshua Chamberlain,no,386,43,88,1,4,136,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Michigan,16th,Vincent,Barnes,Sykes,Union,LTC Norval Welch,no,263,26,32,0,4,62,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,44th,Vincent,Barnes,Sykes,Union,COL James Rice,no,391,37,74,1,2,114,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,83rd,Vincent,Barnes,Sykes,Union,CPT Orpheus Woodward,no,295,17,35,0,0,52,0,0,0,0,0,0,0,0,0,0,0
+Infantry,US,3rd,Day,Ayres,Sykes,Union,CPT Henry Freedley,no,300,24,50,0,0,74,0,0,0,0,0,0,0,0,0,0,0
+Infantry,US,4th,Day,Ayres,Sykes,Union,"CPT Julius Adams, Jr.",no,173,17,23,0,0,40,0,0,0,0,0,0,0,0,0,0,0
+Infantry,US,6th,Day,Ayres,Sykes,Union,CPT Levi Bootes,no,150,11,33,0,0,44,0,0,0,0,0,0,0,0,0,0,0
+Infantry,US,12th,Day,Ayres,Sykes,Union,CPT Thomas Dunn,no,415,14,67,0,12,93,0,0,0,0,0,0,0,0,0,0,0
+Infantry,US,14th,Day,Ayres,Sykes,Union,MAJ Grotius Giddings,no,513,41,88,0,3,132,0,0,0,0,0,0,0,0,0,0,0
+Infantry,US,2nd,Burbank,Ayres,Sykes,Union,MAJ Arthur Lee,wounded,197,16,48,0,4,68,0,0,0,0,0,0,0,0,0,0,0
+Infantry,US,7th,Burbank,Ayres,Sykes,Union,CPT David Hancock,no,116,20,31,0,2,53,0,0,0,0,0,0,0,0,0,0,0
+Infantry,US,10th,Burbank,Ayres,Sykes,Union,CPT William Clinton,no,93,21,26,0,3,50,0,0,0,0,0,0,0,0,0,0,0
+Infantry,US,11th,Burbank,Ayres,Sykes,Union,MAJ DeLancey Floyd-Jones,no,286,38,76,0,8,122,0,0,0,0,0,0,0,0,0,0,0
+Infantry,US,17th,Burbank,Ayres,Sykes,Union,LTC J. Durell Greene,no,260,38,107,0,6,151,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,140th,Weed,Ayres,Sykes,Union,COL Patrick O'Rorke,killed,453,40,76,0,1,117,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,146th,Weed,Ayres,Sykes,Union,COL Kenner Garrard,no,460,5,18,0,0,23,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,91st,Weed,Ayres,Sykes,Union,LTC Joseph Sinex,no,222,5,17,0,0,22,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,155th,Weed,Ayres,Sykes,Union,LTC John Cain,no,365,6,17,0,1,24,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,"1st  Reserves,  30th",McCandless,Crawford,Sykes,Union,COL William Talley,no,382,13,32,0,0,45,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,"2nd  Reserves,  31st",McCandless,Crawford,Sykes,Union,LTC George Woodward,no,235,11,28,0,0,39,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,"6th  Reserves,  35th",McCandless,Crawford,Sykes,Union,LTC Wellington Ent,no,327,3,21,0,0,24,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,"13th  Reserves,  42nd",McCandless,Crawford,Sykes,Union,COL Charles Taylor,killed,301,12,43,2,2,59,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,"5th  Reserves,  34th",Fisher,Crawford,Sykes,Union,LTC George Dare,no,288,0,2,1,0,3,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,"9th  Reserves,  38th",Fisher,Crawford,Sykes,Union,LTC James Snodgrass,no,325,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,"10th  Reserves,  39th",Fisher,Crawford,Sykes,Union,COL Adonirma Warner,no,401,2,3,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,"11th  Reserves,  40th",Fisher,Crawford,Sykes,Union,COL Samuel Jackson,no,327,5,37,0,0,42,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,"12th  Reserves,  41st",Fisher,Crawford,Sykes,Union,COL Martin Hardin,no,276,1,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0
+Artillery,US,"Battery D,  5th",Martin,Artillery_Bde,Sykes,Union,LT Charles Hazlett,killed,68,7,6,0,0,13,0,0,6,0,0,0,0,0,0,0,6
+Artillery,US,"Battery I,  5th",Martin,Artillery_Bde,Sykes,Union,LT Malbone Watson,wounded,71,4,14,3,1,22,4,0,0,0,0,0,0,0,0,0,4
+Artillery,Massachusetts,"Battery C,  Light",Martin,Artillery_Bde,Sykes,Union,LT Aaron Walcott,no,115,0,6,0,0,6,0,0,0,0,6,0,0,0,0,0,6
+Artillery,New York,"Battery C,  1st  Light",Martin,Artillery_Bde,Sykes,Union,CPT Almont Barnes,no,62,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,4
+Artillery,Ohio,"Battery L,  1st  Light",Martin,Artillery_Bde,Sykes,Union,CPT Frank Gibbs,no,113,0,3,0,0,3,0,0,0,0,6,0,0,0,0,0,6
+Infantry,New Jersey,1st,Torbert,Wright,Sedgwick,Union,"LTC William Henry, Jr.",no,292,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New Jersey,2nd,Torbert,Wright,Sedgwick,Union,LTC Charles Wiebecke,no,357,1,5,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New Jersey,3rd,Torbert,Wright,Sedgwick,Union,COL Henry Brown,no,295,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New Jersey,15th,Torbert,Wright,Sedgwick,Union,COL William Penrose,no,413,1,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Maine,5th,Bartlett,Wright,Sedgwick,Union,COL Clark Edwards,no,307,1,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,121st,Bartlett,Wright,Sedgwick,Union,COL Emory Upton,no,429,0,13,0,0,13,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,95th,Bartlett,Wright,Sedgwick,Union,LTC Edward Carroll,no,323,1,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,96th,Bartlett,Wright,Sedgwick,Union,MAJ William Lessig,no,323,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Maine,6th,Russell,Wright,Sedgwick,Union,COL Hiram Burnham,no,395,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,49th,Russell,Wright,Sedgwick,Union,LTC Thomas Hulings,no,289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,119th,Russell,Wright,Sedgwick,Union,COL Peter Ellmaker,no,423,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Wisconsin,5th,Russell,Wright,Sedgwick,Union,COL Thomas Allen,no,439,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Vermont,2nd,Grant,Howe,Sedgwick,Union,COL James Walbridge,no,465,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Vermont,3rd,Grant,Howe,Sedgwick,Union,COL Thomas Seaver,no,381,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Vermont,4th,Grant,Howe,Sedgwick,Union,COL Charles Stoughton,no,399,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Vermont,5th,Grant,Howe,Sedgwick,Union,LTC John Lewis,no,309,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Vermont,6th,Grant,Howe,Sedgwick,Union,COL Elisha Barney,no,346,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Maine,7th,Neill,Howe,Sedgwick,Union,LTC Selden Connor,no,216,3,5,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,33rd  detachment,Neill,Howe,Sedgwick,Union,CPT Henry Gifford,no,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,43rd,Neill,Howe,Sedgwick,Union,LTC John Wilson,no,370,3,2,2,7,16,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,49th,Neill,Howe,Sedgwick,Union,COL Daniel Bidwell,no,376,0,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,77th,Neill,Howe,Sedgwick,Union,LTC Winsor French,no,385,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,61st,Neill,Howe,Sedgwick,Union,LTC George Smith,no,386,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,65th,Shaler,Newton,Sedgwick,Union,COL Joseph Hamblin,no,290,4,8,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,67th,Shaler,Newton,Sedgwick,Union,COL Nelson Cross,no,349,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,122nd,Shaler,Newton,Sedgwick,Union,COL Silas Titus,no,414,14,34,0,1,49,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,23rd,Shaler,Newton,Sedgwick,Union,LTC John Glenn,no,489,1,13,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,82nd,Shaler,Newton,Sedgwick,Union,COL Isaac Bassett,no,291,0,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,7th,Eustis,Newton,Sedgwick,Union,LTC Franklin Harlow,no,335,0,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,10th,Eustis,Newton,Sedgwick,Union,LTC Joseph Parsons,no,378,1,7,0,2,10,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,37th,Eustis,Newton,Sedgwick,Union,COL Oliver Edwards,no,591,7,26,0,17,50,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Rhode Island,2nd,Eustis,Newton,Sedgwick,Union,"COL Horatio Rogers, Jr.",no,364,1,5,0,1,7,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,62nd,Wheaton,Newton,Sedgwick,Union,COL David Nevin,no,237,2,16,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,93rd,Wheaton,Newton,Sedgwick,Union,MAJ John Nevin,no,245,1,9,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,98th,Wheaton,Newton,Sedgwick,Union,MAJ John Kohler,no,368,2,10,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,102nd,Wheaton,Newton,Sedgwick,Union,COL John Patterson,no,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,139th,Wheaton,Newton,Sedgwick,Union,COL Frederick Collier,wounded,464,4,17,2,0,23,0,0,0,0,0,0,0,0,0,0,0
+Artillery,Massachusetts,"Battery A,  1st  Light",Tompkins,Artillery_Bde,Sedgwick,Union,CPT William McCartney,no,135,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,6
+Artillery,New York,"Battery 1,  Light",Tompkins,Artillery_Bde,Sedgwick,Union,CPT Andrew Cowan,no,103,5,7,0,0,12,6,0,0,0,0,0,0,0,0,0,6
+Artillery,New York,"Battery 3,  Light",Tompkins,Artillery_Bde,Sedgwick,Union,CPT William Harn,no,111,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+Artillery,Rhode Island,"Battery C,  1st  Light",Tompkins,Artillery_Bde,Sedgwick,Union,CPT Richard Waterman,no,116,0,1,0,0,1,6,0,0,0,0,0,0,0,0,0,6
+Artillery,Rhode Island,"Battery G,  1st  Light",Tompkins,Artillery_Bde,Sedgwick,Union,CPT George Adams,no,126,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+Artillery,US,"Battery D,  2nd",Tompkins,Artillery_Bde,Sedgwick,Union,LT Edward Williston,no,126,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,6
+Artillery,US,"Battery G,  2nd",Tompkins,Artillery_Bde,Sedgwick,Union,LT John Butler,no,101,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,6
+Artillery,US,"Battery F,  5th",Tompkins,Artillery_Bde,Sedgwick,Union,LT Leornard Martin,no,116,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+Infantry,New York,41st,von Gilsa,Barlow,Howard,Union,LTC Detleo Einsiedel,no,218,22,54,0,2,78,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,54th,von Gilsa,Barlow,Howard,Union,MAJ Stephen Kovacs,captured,189,10,43,28,20,101,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,68th,von Gilsa,Barlow,Howard,Union,COL Gotthilf Bourry,no,232,14,65,21,50,150,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,153rd,von Gilsa,Barlow,Howard,Union,MAJ John Freuauff,no,499,63,145,56,5,269,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Connecticut,17th,Ames,Barlow,Howard,Union,LTC Douglas Fowler,killed,386,38,69,90,0,197,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Ohio,25th,Ames,Barlow,Howard,Union,LTC Jeremiah Williams,captured,220,20,99,2,69,190,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Ohio,75th,Ames,Barlow,Howard,Union,Col Andrew Harris,no,269,37,60,63,31,191,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Ohio,107th,Ames,Barlow,Howard,Union,COL Seraphim Meyer,wounded,458,55,96,68,6,225,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,134th,Coster,von Steinwehr,Howard,Union,LTC Allan Jackson,no,400,70,130,30,45,275,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,154th,Coster,von Steinwehr,Howard,Union,LTC Daniel Allen,no,240,11,22,174,2,209,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,27th,Coster,von Steinwehr,Howard,Union,LTC Lorenz Cantador,no,284,17,24,19,51,111,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,73rd,Coster,von Steinwehr,Howard,Union,CPT Daniel Kelley,no,291,8,26,0,0,34,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,33rd,Smith,von Steinwehr,Howard,Union,COL Adin Underwood,no,493,9,35,0,0,44,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,136th,Smith,von Steinwehr,Howard,Union,"COL James Wood, Jr.",no,484,27,80,2,1,110,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Ohio,55th,Smith,von Steinwehr,Howard,Union,COL Charles Gambee,no,329,11,26,12,0,49,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Ohio,73rd,Smith,von Steinwehr,Howard,Union,LTC Richard Long,no,338,49,82,1,2,134,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Illinois,82nd,Schimmelfennig,Schurz,Howard,Union,LTC Edward Salomon,no,318,8,17,83,1,109,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,45th,Schimmelfennig,Schurz,Howard,Union,COL George von Amsberg,no,375,16,36,87,88,227,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,157th,Schimmelfennig,Schurz,Howard,Union,"COL Philip Brow, Jr.",no,409,33,170,101,10,314,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Ohio,61st,Schimmelfennig,Schurz,Howard,Union,COL Stephen McGroarty,no,247,8,40,6,8,62,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,74th,Schimmelfennig,Schurz,Howard,Union,COL Aldoph von Hartung,wounded,334,16,36,4,54,110,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,58th,Krzyzanowski,Schurz,Howard,Union,LTC August Otto,no,195,4,14,2,2,22,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,119th,Krzyzanowski,Schurz,Howard,Union,COL John Lockman,wounded,263,60,56,19,15,150,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Ohio,82nd,Krzyzanowski,Schurz,Howard,Union,COL James Robinson,wounded,312,37,70,47,18,172,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,75th,Krzyzanowski,Schurz,Howard,Union,COL Francis Mahler,mortally wounded,208,33,70,9,2,114,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Wisconsin,26th,Krzyzanowski,Schurz,Howard,Union,LTC Hans Boebel,wounded,446,59,130,50,1,240,0,0,0,0,0,0,0,0,0,0,0
+Artillery,New York,"Battery I,  1st  Light",Osborn,Artillery_Bde,Howard,Union,CPT Michael Wiedrich,no,141,4,10,0,0,14,6,0,0,0,0,0,0,0,0,0,6
+Artillery,New York,"Battery 13,  Light",Osborn,Artillery_Bde,Howard,Union,LT William Wheeler,no,110,0,8,0,3,11,4,0,0,0,0,0,0,0,0,0,4
+Artillery,Ohio,"Battery I,  1st  Light",Osborn,Artillery_Bde,Howard,Union,CPT Hubert Dilger,no,127,6,9,0,0,15,0,0,0,0,6,0,0,0,0,0,6
+Artillery,Ohio,"Battery K,  1st  Light",Osborn,Artillery_Bde,Howard,Union,CPT Lewis Heckman,no,110,5,10,0,1,16,0,0,0,0,4,0,0,0,0,0,4
+Artillery,US,"Battery G,  4th",Osborn,Artillery_Bde,Howard,Union,LT Bayard Wilkeson,mortally wounded,115,2,11,4,0,17,0,0,0,0,6,0,0,0,0,0,6
+Infantry,Connecticut,5th,McDougall,Williams,Slocum,Union,COL Warren Packer,no,221,0,3,8,0,11,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Connecticut,20th,McDougall,Williams,Slocum,Union,LTC William Wooster,no,321,9,19,0,0,28,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Maryland,3rd,McDougall,Williams,Slocum,Union,COL Joseph Sudsburg,no,290,1,7,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,123rd,McDougall,Williams,Slocum,Union,LTC James Rogers,no,495,4,9,1,0,14,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,145th,McDougall,Williams,Slocum,Union,COL Edward Price,no,245,2,8,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,46th,McDougall,Williams,Slocum,Union,COL James Selfridge,no,262,2,8,0,1,11,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Maryland,1st  Potomac,Lockwood,Williams,Slocum,Union,COL William Maulsby,no,674,27,78,0,1,106,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Maryland,1st  Eastern Shore,Lockwood,Williams,Slocum,Union,COL James Wallace,no,532,7,16,0,2,25,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,150th,Lockwood,Williams,Slocum,Union,COL John Ketcham,no,609,8,23,1,14,46,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Indiana,27th,Ruger,Williams,Slocum,Union,COL Silas Colgrove,no,339,34,105,0,0,139,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Massachusetts,2nd,Ruger,Williams,Slocum,Union,LTC Charles Mudge,killed,316,44,89,5,1,139,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New Jersey,13th,Ruger,Williams,Slocum,Union,COL Ezra Carman,no,347,2,19,0,0,21,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,107th,Ruger,Williams,Slocum,Union,COL Nirom Crane,no,319,1,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Wisconsin,3rd,Ruger,Williams,Slocum,Union,COL William Hawley,no,260,2,10,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Ohio,5th,Candy,Geary,Slocum,Union,COL John Patrick,no,299,6,11,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Ohio,7th,Candy,Geary,Slocum,Union,COL William Creighton,no,282,2,16,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Ohio,29th,Candy,Geary,Slocum,Union,CPT Wilbur Stevens,wounded,315,9,30,0,0,39,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Ohio,66th,Candy,Geary,Slocum,Union,LTC Eugene Powell,no,299,3,15,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,28th,Candy,Geary,Slocum,Union,CPT John Flynn,wounded,303,6,21,1,0,28,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,147th,Candy,Geary,Slocum,Union,"LTC Ario Pardee, Jr.",no,298,7,7,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,29th,Kane,Geary,Slocum,Union,"COL William Richards, Jr.",no,357,19,42,2,13,76,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,109th,Kane,Geary,Slocum,Union,CPT Frederick Gimber,no,149,4,6,0,8,18,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Pennsylvania,111th,Kane,Geary,Slocum,Union,"COL George Cobham, Jr.",no,191,6,17,0,1,24,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,60th,Greene,Geary,Slocum,Union,COL Abel Godard,no,273,19,33,1,0,53,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,78th,Greene,Geary,Slocum,Union,LTC Herbert von Hammerstein,no,198,7,22,2,0,31,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,102nd,Greene,Geary,Slocum,Union,COL James Lane,wounded,230,7,16,1,8,32,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,137th,Greene,Geary,Slocum,Union,COL David Ireland,no,423,49,76,13,6,144,0,0,0,0,0,0,0,0,0,0,0
+Infantry,New York,149th,Greene,Geary,Slocum,Union,COL Henry Barnum,no,297,11,32,0,0,43,0,0,0,0,0,0,0,0,0,0,0
+Artillery,New York,"Battery M,  1st  Light",Muhlenberg,Artillery_Bde,Slocum,Union,LT Charles Winegar,no,97,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4
+Artillery,Pennsylvania,"Battery E,  Light",Muhlenberg,Artillery_Bde,Slocum,Union,LT Charles Atwell,no,139,1,2,0,0,3,0,0,6,0,0,0,0,0,0,0,6
+Artillery,US,"Battery F,  4th  Light",Muhlenberg,Artillery_Bde,Slocum,Union,LT Sylvanus Rugg,no,89,0,1,0,0,1,0,0,0,0,6,0,0,0,0,0,6
+Artillery,US,"Battery K,  5th  Light",Muhlenberg,Artillery_Bde,Slocum,Union,LT David Kinzie,no,72,1,1,0,0,2,0,0,0,0,4,0,0,0,0,0,4
+Cavalry,Illinois,8th,Gamble,Buford,Pleasonton,Union,MAJ John Lourie Beveridge,no,470,0,4,0,1,5,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Illinois,12th,Gamble,Buford,Pleasonton,Union,CPT George Washington Sears,no,233,8,7,0,5,20,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Indiana,3rd,Gamble,Buford,Pleasonton,Union,COL George Henry Champan,no,313,13,14,0,5,32,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,New York,8th,Gamble,Buford,Pleasonton,Union,LTC William Markell,no,580,5,20,7,13,45,0,0,0,0,0,0,0,0,0,0,0
+Artillery,US,"Battery A,  2nd",Gamble,Buford,Pleasonton,Union,LT John Calef,no,81,0,12,0,0,12,6,0,0,0,0,0,0,0,0,0,6
+Cavalry,New York,6th,Devin,Buford,Pleasonton,Union,MAJ William Beardsley,no,218,2,0,1,7,10,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,New York,9th,Devin,Buford,Pleasonton,Union,COL William Sackett,no,367,3,1,0,4,8,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Pennsylvania,17th,Devin,Buford,Pleasonton,Union,COL Josiah Kellogg,no,464,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,West Virginia,3rd,Devin,Buford,Pleasonton,Union,CPT Ceymour Beach Conger,no,59,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Pennsylvania,6th,Merritt,Buford,Pleasonton,Union,MAJ James Haseltine,no,242,1,11,0,1,13,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,US,1st,Merritt,Buford,Pleasonton,Union,CPT Richard Lord,no,362,5,8,0,3,16,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,US,2nd,Merritt,Buford,Pleasonton,Union,CPT Theophilus Rodenbough,no,407,6,4,0,6,16,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,US,5th,Merritt,Buford,Pleasonton,Union,CPT Wilmot Mason,no,306,0,4,0,1,5,0,0,0,0,0,0,0,0,0,0,0
+Artillery,US,"Battery K,  1st ",Buford,Buford,Pleasonton,Union,"CPT William Graham, Jr.",no,114,0,1,0,0,1,6,0,0,0,0,0,0,0,0,0,6
+Cavalry,Maryland,1st,McIntosh,Gregg,Pleasonton,Union,LTC James Monroe Deems,no,285,0,2,0,1,3,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,New Jersey,1st,McIntosh,Gregg,Pleasonton,Union,MAJ Myron Holley Beaumont,no,199,0,9,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Pennsylvania,3rd,McIntosh,Gregg,Pleasonton,Union,LTC Edward Jones,no,324,0,7,0,3,10,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Maryland,Purnell Legion,McIntosh,Gregg,Pleasonton,Union,CPT Robert Duvall,no,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Maine,1st,Gregg  J,Gregg,Pleasonton,Union,LTC Charles Smith,no,315,1,4,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,New York,10th,Gregg  J,Gregg,Pleasonton,Union,MAJ Matthew Henry Avery,no,324,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Pennsylvania,16th,Gregg  J,Gregg,Pleasonton,Union,LTC John Robinson,no,349,0,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+Artillery,US,"Battery E and G,  1st",Gregg ,Gregg,Pleasonton,Union,CPT Alanson Merwin Randol,no,42,0,2,0,0,2,0,0,0,0,4,0,0,0,0,0,4
+Cavalry,New York,5th,Farnsworth,Kilpatrick,Pleasonton,Union,MAJ John Hammond,no,420,1,1,4,1,7,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Pennsylvania,18th,Farnsworth,Kilpatrick,Pleasonton,Union,LTC William Penn Brinton,no,509,3,4,2,5,14,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Vermont,1st,Farnsworth,Kilpatrick,Pleasonton,Union,LTC Addison Webster Preston,no,600,15,28,20,2,65,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,West Virginia,1st,Farnsworth,Kilpatrick,Pleasonton,Union,COL Nathaniel Richmond,no,395,4,6,1,3,14,0,0,0,0,0,0,0,0,0,0,0
+Artillery,US,"Battery E,  4th",Farnsworth,Kilpatrick,Pleasonton,Union,LT Samuel Sherer Elder,no,61,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,4
+Cavalry,Michigan,1st,Custer,Kilpatrick,Pleasonton,Union,COL Charles Henry Town,no,426,10,43,0,20,73,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Michigan,5th,Custer,Kilpatrick,Pleasonton,Union,COL Russell Alexander Alger,no,646,8,30,0,18,56,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Michigan,6th,Custer,Kilpatrick,Pleasonton,Union,COL George Gray,no,467,1,26,0,1,28,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Michigan,7th,Custer,Kilpatrick,Pleasonton,Union,COL William Mann,no,377,13,38,0,39,90,0,0,0,0,0,0,0,0,0,0,0
+Artillery,US,"Battery M,  2nd",Custer,Kilpatrick,Pleasonton,Union,"LT Alexander Pennington, Jr.",no,117,0,1,0,0,1,6,0,0,0,0,0,0,0,0,0,6
+Artillery,Michigan,"Battery 9th,  Light",Robertson,Horse_Artillery,Pleasonton,Union,CPT Jabez Daniels,no,111,1,5,0,0,6,6,0,0,0,0,0,0,0,0,0,6
+Artillery,New York,Battery 6th  Light,Robertson,Horse_Artillery,Pleasonton,Union,CPT Joseph Martin,no,103,0,1,0,0,1,6,0,0,0,0,0,0,0,0,0,6
+Artillery,US,"Battery B and L,  2nd  Light",Robertson,Horse_Artillery,Pleasonton,Union,LT Edward Heaton,no,99,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,6
+Artillery,US,"Battery H,  1st  Light",Ransom,Artillery_Reserve,Tyler,Union,LT Chandler Eakin,wounded,129,2,7,0,1,10,0,0,0,0,6,0,0,0,0,0,6
+Artillery,US,"Battery F and K,  3rd  Light",Ransom,Artillery_Reserve,Tyler,Union,LT John Turnbull,no,115,11,12,0,1,24,0,0,0,0,6,0,0,0,0,0,6
+Artillery,US,"Battery C,  4th  Light",Ransom,Artillery_Reserve,Tyler,Union,LT Evan Thomas,no,95,3,15,0,0,18,0,0,0,0,6,0,0,0,0,0,6
+Artillery,US,"Battery C,  5th  Light",Ransom,Artillery_Reserve,Tyler,Union,LT Gulian Weir,no,104,4,13,0,0,17,0,0,0,0,6,0,0,0,0,0,6
+Artillery,Massachusetts,"Battery E,  5th  Light",McGilvery,Artillery_Reserve,Tyler,Union,CPT Charles Phillips,no,104,7,11,0,0,18,6,0,0,0,0,0,0,0,0,0,6
+Artillery,Massachusetts,"Battery 9th,  Light",McGilvery,Artillery_Reserve,Tyler,Union,CPT John Bigelow,wounded,104,11,18,1,0,30,0,0,0,0,6,0,0,0,0,0,6
+Artillery,New York,"Battery 15th,  Light",McGilvery,Artillery_Reserve,Tyler,Union,CPT Patrick Hart,wounded,70,4,10,0,0,14,0,0,0,0,4,0,0,0,0,0,4
+Artillery,Pennsylvania,"Battery C and F,  1st  Light",McGilvery,Artillery_Reserve,Tyler,Union,CPT James Thompson,no,105,5,19,0,3,27,6,0,0,0,0,0,0,0,0,0,6
+Artillery,Connecticut,"Battery 2nd,  Light",Taft,Artillery_Reserve,Tyler,Union,CPT John Sterling,no,93,0,3,0,2,5,0,0,0,2,0,0,0,0,0,4,6
+Artillery,New York,"Battery 5th,  Light",Taft,Artillery_Reserve,Tyler,Union,CPT Elijah Taft,no,146,3,1,0,0,4,0,0,0,0,0,0,0,6,0,0,6
+Artillery,New Hampshire,"Battery A,  1st  Light",Huntington,Artillery_Reserve,Tyler,Union,CPT Frederick Edgell,no,86,0,2,0,0,2,4,0,0,0,0,0,0,0,0,0,4
+Artillery,Ohio,"Battery H,  1st  Light",Huntington,Artillery_Reserve,Tyler,Union,LT George Norton,no,99,3,7,0,0,10,6,0,0,0,0,0,0,0,0,0,6
+Artillery,Pennsylvania,"Battery F and G,  1st  Light",Huntington,Artillery_Reserve,Tyler,Union,CPT Robert Ricketts,no,144,9,10,1,1,21,6,0,0,0,0,0,0,0,0,0,6
+Artillery,West Virginia,"Battery C,  Light",Huntington,Artillery_Reserve,Tyler,Union,CPT Wallace Hill,no,100,2,2,0,0,4,0,0,4,0,0,0,0,0,0,0,4
+Artillery,Maine,"Battery F,  6th  Light",Fitzhugh,Artillery_Reserve,Tyler,Union,LT Edwin Dow,no,87,0,13,0,0,13,0,0,0,0,4,0,0,0,0,0,4
+Artillery,Maryland,"Battery A,  1st  Light",Fitzhugh,Artillery_Reserve,Tyler,Union,CPT James Rigby,no,106,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,6
+Artillery,New Jersey,"Battery A,  1st  Light",Fitzhugh,Artillery_Reserve,Tyler,Union,LT Augustin Parsons,no,98,8,0,0,0,8,0,0,6,0,0,0,0,0,0,0,6
+Artillery,New York,"Battery G,  1st  Light",Fitzhugh,Artillery_Reserve,Tyler,Union,CPT Nelson Ames,no,84,1,6,0,0,7,0,0,0,0,6,0,0,0,0,0,6
+Artillery,New York,"Battery K,  1st  Light",Fitzhugh,Artillery_Reserve,Tyler,Union,CPT Robert Fitzhugh,no,122,0,7,0,0,7,6,0,0,0,0,0,0,0,0,0,6
+Infantry,South Carolina,2nd,Kershaw,McLaws,Longstreet,Confederate,COL John Doby Kennedy,wounded,412,53,100,0,17,170,0,0,0,0,0,0,0,0,0,0,0
+Infantry,South Carolina,3rd,Kershaw,McLaws,Longstreet,Confederate,MAJ Robert Maffett,no,407,22,59,0,6,87,0,0,0,0,0,0,0,0,0,0,0
+Infantry,South Carolina,7th,Kershaw,McLaws,Longstreet,Confederate,COL David Aiken,no,408,29,79,0,7,115,0,0,0,0,0,0,0,0,0,0,0
+Infantry,South Carolina,8th,Kershaw,McLaws,Longstreet,Confederate,COL John Henagan,no,300,31,74,0,0,105,0,0,0,0,0,0,0,0,0,0,0
+Infantry,South Carolina,15th,Kershaw,McLaws,Longstreet,Confederate,COL William DeSaussure,mortally wounded,449,30,96,0,18,144,0,0,0,0,0,0,0,0,0,0,0
+Infantry,South Carolina,3rd  BN,Kershaw,McLaws,Longstreet,Confederate,LTC William Rice,no,203,14,31,0,3,48,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Mississippi,13th,Barksdale,McLaws,Longstreet,Confederate,COL James Carter,killed,481,39,171,0,33,243,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Mississippi,17th,Barksdale,McLaws,Longstreet,Confederate,COL William Holder,wounded,468,64,108,0,98,270,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Mississippi,18th,Barksdale,McLaws,Longstreet,Confederate,COL Thomas Griffin,wounded,242,20,81,0,36,137,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Mississippi,21st,Barksdale,McLaws,Longstreet,Confederate,COL Benjamin Humphreys,no,424,18,110,0,11,139,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,10th,Semmes,McLaws,Longstreet,Confederate,COL John Weems,wounded,303,17,73,0,11,101,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,50th,Semmes,McLaws,Longstreet,Confederate,COL William Manning,no,302,17,65,0,14,96,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,51st,Semmes,McLaws,Longstreet,Confederate,COL Edward Ball,no,303,15,40,0,40,95,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,53rd,Semmes,McLaws,Longstreet,Confederate,COL James Simms,no,422,30,61,0,8,99,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,16th,Wofford,McLaws,Longstreet,Confederate,COL Goode Bryan,no,303,20,41,0,43,104,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,18th,Wofford,McLaws,Longstreet,Confederate,LTC Solon Ruff,no,303,3,16,0,17,36,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,24th,Wofford,McLaws,Longstreet,Confederate,COL Robert McMillan,no,303,10,29,0,46,85,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,Cobb's  Legion,Wofford,McLaws,Longstreet,Confederate,LTC Luther Glenn,no,213,6,16,0,,22,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,Phillips  Legion,Wofford,McLaws,Longstreet,Confederate,"LTC Elihu Barclay, Jr.",no,273,6,41,0,19,66,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,"3rd  BN,  Sharpshooters",Wofford,McLaws,Longstreet,Confederate,"LTC Nathan Hutchins, Jr.",no,233,3,3,0,7,13,0,0,0,0,0,0,0,0,0,0,0
+Artillery,North Carolina,"Battery A,  1st ",Cabell,McLaws,Longstreet,Confederate,CPT Basil Manly,no,131,3,10,0,0,13,2,0,0,0,2,0,0,0,0,0,4
+Artillery,Georgia,Battery Pulaski,Cabell,McLaws,Longstreet,Confederate,CPT John Fraser,mortally wounded,63,7,12,0,0,19,2,0,2,0,0,0,0,0,0,0,4
+Artillery,Virginia,Battery 1st  Richmond,Cabell,McLaws,Longstreet,Confederate,CPT Edward McCarthy,wounded,90,3,10,0,0,13,2,0,0,0,2,0,0,0,0,0,4
+Artillery,Georgia,Battery Troup County,Cabell,McLaws,Longstreet,Confederate,CPT Hanry Carlton,wounded,90,2,5,0,0,7,0,0,2,2,0,0,0,0,0,0,4
+Infantry,Virginia,8th,Garnett,Pickett,Longstreet,Confederate,COL Eppa Hunton,wounded,193,39,79,0,60,178,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,18th,Garnett,Pickett,Longstreet,Confederate,LTC Henry Carrington,mortally wounded,312,54,134,0,57,245,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,19th,Garnett,Pickett,Longstreet,Confederate,COL Henry Gantt,wounded,328,42,41,0,68,151,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,28th,Garnett,Pickett,Longstreet,Confederate,COL Robert Allen,killed,333,44,65,0,73,182,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,56th,Garnett,Pickett,Longstreet,Confederate,COL William Stuart,mortally wounded,289,51,72,0,66,189,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,1st,Kemper,Pickett,Longstreet,Confederate,"COL Lewis Williams, Jr.",mortally wounded,209,27,73,0,13,113,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,3rd,Kemper,Pickett,Longstreet,Confederate,"COL Joseph Mayo, Jr.",no,322,30,41,0,57,128,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,7th,Kemper,Pickett,Longstreet,Confederate,COL Waller Patton,mortally wounded,335,31,82,0,36,149,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,11th,Kemper,Pickett,Longstreet,Confederate,MAJ Kirkwood Otey,wounded,359,34,86,0,26,146,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,24th,Kemper,Pickett,Longstreet,Confederate,COL William Terry,wounded,395,47,83,0,33,163,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,9th,Armistead,Pickett,Longstreet,Confederate,MAJ John Owens,mortally wounded,257,24,70,0,83,177,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,14th,Armistead,Pickett,Longstreet,Confederate,COL James Hodges,killed,422,58,104,0,88,250,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,38th,Armistead,Pickett,Longstreet,Confederate,COL Edward Edmonds,killed,356,40,112,0,42,194,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,53rd,Armistead,Pickett,Longstreet,Confederate,COL William Aylett,wounded,435,34,101,0,78,213,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,57th,Armistead,Pickett,Longstreet,Confederate,COL John Magruder,mortally wounded,476,57,136,0,56,249,0,0,0,0,0,0,0,0,0,0,0
+Artillery,Virginia,Battery Fauquier,Dearing,Pickett,Longstreet,Confederate,CPT Robert Stribling,no,135,1,4,0,0,5,0,0,0,0,4,0,0,2,0,0,6
+Artillery,Virginia,Battery Hampden,Dearing,Pickett,Longstreet,Confederate,CPT William Caskie,no,90,0,3,0,1,4,1,0,1,0,2,0,0,0,0,0,4
+Artillery,Virginia,Battery Fayette,Dearing,Pickett,Longstreet,Confederate,CPT Miles Macon,no,90,3,1,0,1,5,0,0,2,0,2,0,0,0,0,0,4
+Artillery,Virginia,Battery Lynchburg,Dearing,Pickett,Longstreet,Confederate,CPT Joseph Blount,no,96,5,3,0,2,10,0,0,0,0,4,0,0,0,0,0,4
+Infantry,Alabama,4th,Law,Hood,Longstreet,Confederate,COL Lawrence Scruggs,no,346,18,55,0,19,92,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,15th,Law,Hood,Longstreet,Confederate,COL William Oates,no,499,18,77,0,83,178,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,44th,Law,Hood,Longstreet,Confederate,COL William Perry,no,363,25,58,0,5,88,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,47th,Law,Hood,Longstreet,Confederate,LTC Michael Bulger,wounded-captured,347,10,46,0,13,69,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,48th,Law,Hood,Longstreet,Confederate,COL James Sheffield,no,374,8,51,0,17,76,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Arkansas,3rd,Robertson,Hood,Longstreet,Confederate,COL Vannoy Manning,wounded,479,41,101,,40,182,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Texas,1st,Robertson,Hood,Longstreet,Confederate,COL Phillip Work,no,426,29,46,0,22,97,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Texas,4th,Robertson,Hood,Longstreet,Confederate,COL John Key,wounded,415,28,53,0,31,112,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Texas,5th,Robertson,Hood,Longstreet,Confederate,COL Robert Powell,wounded-captured,409,54,112,0,45,211,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,7th,Anderson,Hood,Longstreet,Confederate,COL William White,no,377,5,10,0,6,21,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,8th,Anderson,Hood,Longstreet,Confederate,COL John Towers,wounded,312,36,103,0,29,168,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,9th,Anderson,Hood,Longstreet,Confederate,LTC John Mounger,killed,340,34,123,0,32,189,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,11th,Anderson,Hood,Longstreet,Confederate,COL Francis Little,wounded,309,40,156,0,5,201,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,59th,Anderson,Hood,Longstreet,Confederate,COL William Jack Brown,wounded-captured,525,37,75,0,30,142,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,2nd,Benning,Hood,Longstreet,Confederate,LTC William Harris,killed,348,26,66,0,11,103,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,15th,Benning,Hood,Longstreet,Confederate,COL Dudley DuBose,no,368,14,58,0,99,171,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,17th,Benning,Hood,Longstreet,Confederate,COL Wesley Hodges,no,350,31,66,0,11,108,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,20th,Benning,Hood,Longstreet,Confederate,COL John Jones,killed,350,25,84,0,28,137,0,0,0,0,0,0,0,0,0,0,0
+Artillery,North Carolina,Battery Branch,Henry,Hood,Longstreet,Confederate,CPT Alexander Latham,no,112,1,2,0,0,3,0,0,0,1,3,1,0,0,0,0,5
+Artillery,South Carolina,Battery German,Henry,Hood,Longstreet,Confederate,CPT William Bachman,no,71,,,,,,0,0,0,0,4,0,0,0,0,0,4
+Artillery,South Carolina,Battery Palmetto,Henry,Hood,Longstreet,Confederate,CPT Hugh Garden,no,63,2,5,0,0,7,0,0,2,0,2,0,0,0,0,0,4
+Artillery,North Carolina,Battery Rowan,Henry,Hood,Longstreet,Confederate,CPT James Reilly,no,148,2,4,0,0,6,2,0,2,0,2,0,0,0,0,0,6
+Artillery,Virginia,Battery Ashland,Alexander,Walton,Longstreet,Confederate,"CPT Pechegru Woolfolk, Jr.",wounded,103,3,24,0,1,28,0,0,0,0,2,0,0,2,0,0,4
+Artillery,Virginia,Battery Bedford,Alexander,Walton,Longstreet,Confederate,CPT Tyler Jordan,no,78,1,7,0,1,9,4,0,0,0,0,0,0,0,0,0,4
+Artillery,South Carolina,Battery Brooks,Alexander,Walton,Longstreet,Confederate,LT Stephen Gilbert,no,71,7,29,0,0,36,0,0,0,4,0,0,0,0,0,0,4
+Artillery,Louisiana,Battery Madison,Alexander,Walton,Longstreet,Confederate,CPT George Moody,no,135,4,29,0,0,33,0,0,0,0,0,0,4,0,0,0,4
+Artillery,Virginia,Battery Bath,Alexander,Walton,Longstreet,Confederate,CPT Osmond Taylor,no,90,4,8,0,1,13,0,0,0,0,4,0,0,0,0,0,4
+Artillery,Virginia,Battery Parker,Alexander,Walton,Longstreet,Confederate,CPT William Parker,no,90,3,14,0,1,18,3,0,1,0,0,0,0,0,0,0,4
+Artillery,Louisiana,Battery 1st ,Eshleman,Walton,Longstreet,Confederate,CPT Charles Squires,no,77,1,0,0,3,4,0,0,0,0,1,0,0,0,0,0,1
+Artillery,Louisiana,Battery 2nd ,Eshleman,Walton,Longstreet,Confederate,CPT John Richardson,no,80,2,3,0,1,6,0,0,0,1,2,0,0,0,0,0,3
+Artillery,Louisiana,Battery 3rd ,Eshleman,Walton,Longstreet,Confederate,CPT Merritt Miller,no,92,5,2,0,3,10,0,0,0,0,3,0,0,0,0,0,3
+Artillery,Louisiana,Battery 4th ,Eshleman,Walton,Longstreet,Confederate,CPT Joseph Norcom,wounded,80,0,6,0,4,10,0,0,0,1,2,0,0,0,0,0,3
+Infantry,Louisiana,5th,Hays,Early,Ewell,Confederate,MAJ Alexander Hart,wounded,196,7,30,0,30,67,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Louisiana,6th,Hays,Early,Ewell,Confederate,LTC Joseph Hanlon,no,218,8,32,0,21,61,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Louisiana,7th,Hays,Early,Ewell,Confederate,COL Davidson Penn,no,235,13,40,0,5,58,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Louisiana,8th,Hays,Early,Ewell,Confederate,COL Trevanion Lewis,killed,296,14,50,0,11,75,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Louisiana,9th,Hays,Early,Ewell,Confederate,COL Leroy Stafford,no,347,19,35,0,19,73,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,31st,Smith,Early,Ewell,Confederate,COL John Hoffman,no,267,19,16,0,24,59,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,49th,Smith,Early,Ewell,Confederate,LTC Jonathan Gibson,no,281,18,73,0,9,100,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,52nd,Smith,Early,Ewell,Confederate,LTC James Skinner,wounded,254,9,26,0,19,54,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,6th,Avery,Early,Ewell,Confederate,MAJ Samuel Tate,no,509,47,118,0,43,208,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,21st,Avery,Early,Ewell,Confederate,COL William Kirkland,no,436,27,76,0,36,139,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,57th,Avery,Early,Ewell,Confederate,COL Archibald Godwin,no,297,16,29,0,41,86,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,13th,Gordon,Early,Ewell,Confederate,COL James Smith,no,312,37,75,0,25,137,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,26th,Gordon,Early,Ewell,Confederate,COL Edmun Atkinson,no,315,2,13,0,17,32,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,31st,Gordon,Early,Ewell,Confederate,COL Clement Evans,wounded,252,13,44,0,8,65,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,38th,Gordon,Early,Ewell,Confederate,CPT William McLeod,killed,341,18,62,0,53,133,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,60th,Gordon,Early,Ewell,Confederate,CPT Walter Jones,no,299,12,28,0,19,59,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,61st,Gordon,Early,Ewell,Confederate,COL John Lamar,no,288,30,75,0,6,111,0,0,0,0,0,0,0,0,0,0,0
+Artillery,Virginia,Battery Charlottesville,Jones,Early,Ewell,Confederate,CPT James Carrington,no,71,0,0,0,2,2,0,0,0,0,4,0,0,0,0,0,4
+Artillery,Virginia,Battery Courtney,Jones,Early,Ewell,Confederate,CPT William Tanner,no,90,0,0,0,2,2,0,0,0,0,4,0,0,0,0,0,4
+Artillery,Louisiana,Battery Guard,Jones,Early,Ewell,Confederate,CPT Charles Green,no,60,2,5,0,0,7,2,0,2,0,0,0,0,0,0,0,4
+Artillery,Virginia,Battery Staunton,Jones,Early,Ewell,Confederate,CPT Asher Garber,no,60,0,1,0,0,1,0,0,0,0,4,0,0,0,0,0,4
+Infantry,Maryland,1st  Bn,Steuart,Johnson,Ewell,Confederate,LTC James Herbert,wounded,400,56,118,0,15,189,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,1st,Steuart,Johnson,Ewell,Confederate,LTC Hamilton Brown,no,377,14,40,0,97,151,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,3rd,Steuart,Johnson,Ewell,Confederate,MAJ William Parsley,no,548,48,140,0,30,218,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,10th,Steuart,Johnson,Ewell,Confederate,COL Edward Warren,no,276,8,17,0,52,77,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,23rd,Steuart,Johnson,Ewell,Confederate,LTC Simeon Walton,no,251,3,15,0,18,36,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,37th,Steuart,Johnson,Ewell,Confederate,MAJ Henry Wood,no,264,20,55,0,23,98,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,2nd,Walker,Johnson,Ewell,Confederate,COL John Nadenbousch,no,333,3,12,0,10,25,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,4th,Walker,Johnson,Ewell,Confederate,MAJ William Terry,no,257,18,63,0,56,137,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,5th,Walker,Johnson,Ewell,Confederate,COL John Funk,no,345,14,43,0,11,68,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,27th,Walker,Johnson,Ewell,Confederate,LTC Daniel Shriver,no,148,11,29,0,8,48,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,33rd,Walker,Johnson,Ewell,Confederate,CPT Jacob Golladay,no,236,19,36,0,15,70,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Louisiana,1st,Nicholls,Johnson,Ewell,Confederate,COL Michael Nolan,killed,172,11,28,0,,39,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Louisiana,2nd,Nicholls,Johnson,Ewell,Confederate,LTC Ross Burke,wounded-captured,236,15,47,0,,62,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Louisiana,10th,Nicholls,Johnson,Ewell,Confederate,MAJ Thomas Powell,no,226,22,69,0,19,110,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Louisiana,14th,Nicholls,Johnson,Ewell,Confederate,LTC David Zable,no,281,15,50,0,,65,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Louisiana,15th,Nicholls,Johnson,Ewell,Confederate,MAJ Andrew Brady,no,186,3,35,0,,38,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,21st,Jones,Johnson,Ewell,Confederate,CPT William Moseley,no,183,8,32,0,10,50,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,25th,Jones,Johnson,Ewell,Confederate,COL John Higginbotham,wounded,280,9,54,0,7,70,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,42nd,Jones,Johnson,Ewell,Confederate,COL Robert Withers,wounded,252,16,47,0,26,89,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,44th,Jones,Johnson,Ewell,Confederate,MAJ Norvell Cobb,wounded,227,19,16,0,24,59,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,48th,Jones,Johnson,Ewell,Confederate,LTC Robert Dungan,no,252,20,38,0,29,87,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,50th,Jones,Johnson,Ewell,Confederate,LTC Logan Salyer,no,252,16,66,0,17,99,0,0,0,0,0,0,0,0,0,0,0
+Artillery,Maryland,Battery 1st,Andrews,Johnson,Ewell,Confederate,CPT William Dement,no,90,1,4,0,0,5,0,0,0,0,4,0,0,0,0,0,4
+Artillery,Virginia,Battery Alleghany Rough,Andrews,Johnson,Ewell,Confederate,CPT John Carpenter,no,91,10,14,0,24,,2,0,0,0,2,0,0,0,0,0,4
+Artillery,Maryland,Battery Chesapeake,Andrews,Johnson,Ewell,Confederate,CPT William Brown,mortally wounded,76,8,9,0,0,17,0,0,4,0,0,0,0,0,0,0,4
+Artillery,Virginia,Battery Lee,Andrews,Johnson,Ewell,Confederate,CPT Charles Raine,no,90,2,2,0,0,4,1,0,1,0,0,0,0,2,0,0,4
+Infantry,North Carolina,32nd,Daniel,Rodes,Ewell,Confederate,COL Edmund Brabble,no,465,39,111,0,31,181,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,43rd,Daniel,Rodes,Ewell,Confederate,COL Thomes Kenan,wounded-captured,583,40,116,0,31,187,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,45th,Daniel,Rodes,Ewell,Confederate,LTC Samuel Boyd,wounded-captured,460,63,156,0,,219,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,53rd,Daniel,Rodes,Ewell,Confederate,COL William Owens,no,409,45,132,0,34,211,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,2nd  Bn,Daniel,Rodes,Ewell,Confederate,LTC Hezekiah Andrews,killed,240,46,78,0,75,,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,4th,Doles,Rodes,Ewell,Confederate,LTC David Winn,killed,341,12,26,0,15,53,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,12th,Doles,Rodes,Ewell,Confederate,COL Edward Willis,no,327,12,28,0,13,53,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,21st,Doles,Rodes,Ewell,Confederate,COL John Mercer,no,287,4,11,0,23,38,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,44th,Doles,Rodes,Ewell,Confederate,COL Samuel Lumpkin,mortally wounded,364,18,41,0,16,75,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,5th,Iverson,Rodes,Ewell,Confederate,CPT Speight West,wounded,473,64,125,0,100,289,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,12th,Iverson,Rodes,Ewell,Confederate,LTC William Davis,no,219,12,60,0,7,79,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,20th,Iverson,Rodes,Ewell,Confederate,LTC Nelson Slough,wounded,372,41,94,0,118,253,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,23rd,Iverson,Rodes,Ewell,Confederate,COL Daniel Harvey Christie,mortally wounded,316,65,120,0,97,282,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,2nd,Ramseur,Rodes,Ewell,Confederate,MAJ Daniel Hurtt,wounded,243,9,37,0,31,77,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,4th,Ramseur,Rodes,Ewell,Confederate,COL Bryan Grimes,no,196,10,29,0,30,69,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,14th,Ramseur,Rodes,Ewell,Confederate,COL Risden Bennet,wounded,306,9,42,0,13,64,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,30th,Ramseur,Rodes,Ewell,Confederate,COL Francis Marion Parker,wounded,276,11,41,0,23,75,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,3rd,O'Neal,Rodes,Ewell,Confederate,COL Cullen Battle,no,350,17,74,0,,91,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,5th,O'Neal,Rodes,Ewell,Confederate,COL Joseph Hall,no,317,26,116,0,67,209,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,6th,O'Neal,Rodes,Ewell,Confederate,COL James Lightfoot,wounded,382,15,62,0,88,165,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,12th,O'Neal,Rodes,Ewell,Confederate,COL Samuel Bonneau Pickens,no,317,17,66,0,,83,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,26th,O'Neal,Rodes,Ewell,Confederate,LTC John Goodgame,no,319,8,57,0,65,130,0,0,0,0,0,0,0,0,0,0,0
+Artillery,Alabama,Battery Jeff Davis,Carter,Rodes,Ewell,Confederate,CPT William Reese,no,79,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,4
+Artillery,Virginia,Battery King William,Carter,Rodes,Ewell,Confederate,CPT William Carter,no,103,5,3,0,2,10,0,0,2,0,2,0,0,0,0,0,4
+Artillery,Virginia,Battery Morris,Carter,Rodes,Ewell,Confederate,CPT Richard Page,wounded,114,5,18,0,0,23,0,0,0,0,4,0,0,0,0,0,4
+Artillery,Virginia,Battery Orange,Carter,Rodes,Ewell,Confederate,CPT Charles Fry,no,80,1,1,0,2,4,2,0,2,0,0,0,0,0,0,0,4
+Artillery,Virginia,Battery 2nd  Richmond,Dance,Brown,Ewell,Confederate,CPT David Watson,no,64,2,1,0,0,3,0,0,4,0,0,0,0,0,0,0,4
+Artillery,Virginia,Battery 3rd  Richmond,Dance,Brown,Ewell,Confederate,"CPT Benjamin Smith, Jr.",no,62,1,1,0,2,4,4,0,0,0,0,0,0,0,0,0,4
+Artillery,Virginia,Battery Powhatan,Dance,Brown,Ewell,Confederate,LT John Cunningham,no,78,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,4
+Artillery,Virginia,Battery Rockbridge,Dance,Brown,Ewell,Confederate,CPT Archibald Graham,no,85,0,20,0,0,20,0,0,0,0,0,0,0,4,0,0,4
+Artillery,Virginia,Battery Salem,Dance,Brown,Ewell,Confederate,LT Charles Griffin,no,66,0,2,0,3,5,2,0,0,0,2,0,0,0,0,0,4
+Artillery,Virginia,Battery Amherst,Nelson,Brown,Ewell,Confederate,CPT Thomas Kirkpatrick,no,105,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,4
+Artillery,Virginia,Battery Fluvanna,Nelson,Brown,Ewell,Confederate,CPT John Massie,no,90,0,1,0,0,1,1,0,0,0,3,0,0,0,0,0,4
+Artillery,Georgia,Battery Georgia,Nelson,Brown,Ewell,Confederate,"CPT John Milledge, Jr.",no,73,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3
+Infantry,Alabama,8th,Wilcox,Anderson,Hill,Confederate,LTC Hilary Herbert,no,477,40,146,0,80,266,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,9th,Wilcox,Anderson,Hill,Confederate,COL Joseph King,wounded,306,8,32,0,76,116,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,10th,Wilcox,Anderson,Hill,Confederate,COL William Forney,wounded-captured,311,15,89,0,,104,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,11th,Wilcox,Anderson,Hill,Confederate,COL John Sanders,wounded,311,7,68,0,,75,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,14th,Wilcox,Anderson,Hill,Confederate,COL Lucius Pinckard,wounded-captured,316,8,40,0,,48,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,6th,Mahone,Anderson,Hill,Confederate,COL George Rogers,no,288,0,4,0,7,11,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,12th,Mahone,Anderson,Hill,Confederate,COL David Weisiger,no,348,3,11,0,8,22,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,16th,Mahone,Anderson,Hill,Confederate,COL Joseph Ham,no,270,2,15,0,5,22,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,41st,Mahone,Anderson,Hill,Confederate,COL William Parham,no,276,11,11,0,0,22,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,61st,Mahone,Anderson,Hill,Confederate,COL Virginius Gromer,no,356,5,10,0,10,25,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,3rd,Wright,Anderson,Hill,Confederate,COL Edward Walker,no,411,49,139,0,31,219,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,22nd,Wright,Anderson,Hill,Confederate,COL Joseph Wasden,killed,400,41,70,0,60,171,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,48th,Wright,Anderson,Hill,Confederate,COL William Gibson,wounded-captured,395,70,97,0,57,224,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,2nd  Bn,Wright,Anderson,Hill,Confederate,MAJ George Ross,mortally wounded,173,24,37,0,21,82,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Florida,2nd,Lang,Anderson,Hill,Confederate,MAJ Walter Moore,wounded-captured,242,24,71,0,49,144,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Florida,5th,Lang,Anderson,Hill,Confederate,CPT Richmond Gardner,wounded,321,39,77,0,70,186,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Florida,8th,Lang,Anderson,Hill,Confederate,LTC William Baya,no,176,17,80,0,28,125,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Mississippi,12th,Posey,Anderson,Hill,Confederate,COL William Taylor,no,305,1,11,0,1,13,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Mississippi,16th,Posey,Anderson,Hill,Confederate,COL Samuel Baker,no,385,3,16,0,7,26,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Mississippi,19th,Posey,Anderson,Hill,Confederate,COL Nathaniel Harris,no,372,5,26,0,3,34,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Mississippi,48th,Posey,Anderson,Hill,Confederate,COL Joseph Jayne,no,256,6,27,0,6,39,0,0,0,0,0,0,0,0,0,0,0
+Artillery,South Carolina,"Battery A,  Sumter",Lane,Anderson,Hill,Confederate,CPT Hugh Ross,no,130,1,11,0,1,13,1,0,3,1,1,0,0,0,0,0,6
+Artillery,South Carolina,"Battery B,  Sumter",Lane,Anderson,Hill,Confederate,CPT George Patterson,no,124,2,6,0,1,9,0,0,0,4,2,0,0,0,0,0,6
+Artillery,South Carolina,"Battery C,  Sumter",Lane,Anderson,Hill,Confederate,CPT John Wingfield,wounded,121,0,18,0,2,20,3,0,2,0,0,0,0,0,0,0,5
+Infantry,North Carolina,11th,Pettigrew,Heth,Hill,Confederate,COL Collett Leventhorpe,wounded-captured,617,108,200,0,58,366,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,26th,Pettigrew,Heth,Hill,Confederate,"COL Henry Burgwyn, Jr.",killed,843,172,443,0,72,687,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,47th,Pettigrew,Heth,Hill,Confederate,COL George Faribault,wounded,567,53,159,0,5,217,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,52nd,Pettigrew,Heth,Hill,Confederate,COL James Marshall,killed,553,77,175,0,94,346,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,40th,Brockenbrough,Heth,Hill,Confederate,CPT Thomas Betts,wounded-captured,253,10,37,0,18,65,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,47th,Brockenbrough,Heth,Hill,Confederate,COL Robert Mayo,no,209,12,22,0,30,64,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,55th,Brockenbrough,Heth,Hill,Confederate,COL William Christian,no,268,13,32,0,19,64,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Virginia,22nd  Bn,Brockenbrough,Heth,Hill,Confederate,MAJ John Bowles,no,237,6,15,0,10,31,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,13th,Archer,Heth,Hill,Confederate,COL Birkett Fry,wounded-captured,308,11,46,0,157,214,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Alabama,5th  Bn,Archer,Heth,Hill,Confederate,MAJ Albert Van De Graaff,no,135,3,30,0,15,48,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Tennessee,1st,Archer,Heth,Hill,Confederate,LTC Newton George,captured,281,16,67,0,95,178,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Tennessee,7th,Archer,Heth,Hill,Confederate,COL John Fite,captured,249,24,38,0,54,116,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Tennessee,14th,Archer,Heth,Hill,Confederate,LTC James Lockert,wounded-captured,220,15,37,0,75,127,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Mississippi,2nd,Davis,Heth,Hill,Confederate,COL John Stone,wounded,492,56,176,0,0,232,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Mississippi,11th,Davis,Heth,Hill,Confederate,COL Francis Green,wounded,592,102,168,0,42,312,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Mississippi,42nd,Davis,Heth,Hill,Confederate,COL Hugh Miller,mortally wounded,575,75,190,0,0,265,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,55th,Davis,Heth,Hill,Confederate,COL John Connally,wounded-captured,640,74,183,0,158,415,0,0,0,0,0,0,0,0,0,0,0
+Artillery,Louisiana,Battery Donaldsville,Garnett,Heth,Hill,Confederate,CPT Victor Maurin,no,114,0,2,0,4,6,2,0,1,0,0,0,0,0,0,0,3
+Artillery,Virginia,Battery Huger,Garnett,Heth,Hill,Confederate,CPT Joseph Moore,no,77,,,,,,1,0,1,0,2,0,0,0,0,0,4
+Artillery,Virginia,Battery Pittsylvania,Garnett,Heth,Hill,Confederate,CPT John Lewis,no,90,,,,,,2,0,0,0,2,0,0,0,0,0,4
+Artillery,Virginia,Battery Norfolk Light,Garnett,Heth,Hill,Confederate,CPT Charles Grandy,no,106,0,1,0,1,2,2,0,0,2,0,0,0,0,0,0,4
+Infantry,South Carolina,1st,Perrin,Pender,Hill,Confederate,MAJ Comillus McCreary,no,328,19,94,0,2,115,0,0,0,0,0,0,0,0,0,0,0
+Infantry,South Carolina,1st Rifles,Perrin,Pender,Hill,Confederate,CPT William Hadden,no,366,2,5,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+Infantry,South Carolina,12th,Perrin,Pender,Hill,Confederate,COL John Miller,no,366,20,105,0,4,129,0,0,0,0,0,0,0,0,0,0,0
+Infantry,South Carolina,13th,Perrin,Pender,Hill,Confederate,LTC Benjamin Brockman,no,390,35,105,0,4,144,0,0,0,0,0,0,0,0,0,0,0
+Infantry,South Carolina,14th,Perrin,Pender,Hill,Confederate,LTC Joseph Brown,wounded,428,26,220,0,6,252,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,7th,Lane,Pender,Hill,Confederate,MAJ John Turner,wounded-captured,291,32,66,0,61,159,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,18th,Lane,Pender,Hill,Confederate,COL John Barry,no,346,16,38,0,34,88,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,28th,Lane,Pender,Hill,Confederate,COL Samuel Lowe,wounded,346,65,135,0,37,237,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,33rd,Lane,Pender,Hill,Confederate,MAJ Joseph Saunders,wounded-captured,368,30,54,0,38,122,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,37th,Lane,Pender,Hill,Confederate,COL William Barbour,no,379,35,83,0,58,176,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,14th,Thomas,Pender,Hill,Confederate,COL Robert Folsom,no,305,6,27,0,11,44,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,35th,Thomas,Pender,Hill,Confederate,COL Bolling Holt,no,305,11,37,0,42,90,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,45th,Thomas,Pender,Hill,Confederate,COL Thomas Jefferson Simmons,no,305,5,32,0,8,45,0,0,0,0,0,0,0,0,0,0,0
+Infantry,Georgia,49th,Thomas,Pender,Hill,Confederate,COL Samuel Player,no,329,12,31,0,42,85,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,13th,Scales,Pender,Hill,Confederate,COL Jospeh Hyman,wounded,232,55,98,0,26,179,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,16th,Scales,Pender,Hill,Confederate,CPT Leroy Stowe,no,321,24,61,0,38,123,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,22nd,Scales,Pender,Hill,Confederate,COL James Conner,no,267,37,79,0,50,166,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,34th,Scales,Pender,Hill,Confederate,COL William Lowrance,no,311,19,55,0,30,104,0,0,0,0,0,0,0,0,0,0,0
+Infantry,North Carolina,38th,Scales,Pender,Hill,Confederate,COL William Hoke,wounded,216,40,63,0,27,130,0,0,0,0,0,0,0,0,0,0,0
+Artillery,Virginia,Battery Albemarle,Poague,Pender,Hill,Confederate,CPT James Wyatt,no,94,0,12,0,1,13,2,0,1,1,0,0,0,0,0,0,4
+Artillery,North Carolina,Battery Charlotte ,Poague,Pender,Hill,Confederate,CPT Jospeh Graham,no,125,0,0,0,5,5,0,0,0,2,2,0,0,0,0,0,4
+Artillery,Mississippi,Battery Madison,Poague,Pender,Hill,Confederate,CPT George Ward,no,91,,,,,,0,0,0,1,3,0,0,0,0,0,4
+Artillery,Virginia,Battery Warrenton,Poague,Pender,Hill,Confederate,CPT James Brooke,no,58,1,2,0,2,5,0,0,0,2,2,0,0,0,0,0,4
+Artillery,Virginia,Battery Danville,McIntosh,Walker,Pendleton,Confederate,CPT Sidney Rice,no,114,0,1,0,1,2,0,0,0,0,4,0,0,0,0,0,4
+Artillery,Alabama,Battery Hardaway,McIntosh,Walker,Pendleton,Confederate,CPT William Hurt,no,71,0,4,0,4,8,2,0,0,0,0,0,0,0,2,0,4
+Artillery,Virginia,Battery 2nd  Rockbridge,McIntosh,Walker,Pendleton,Confederate,LT Samuel Wallace,no,67,3,7,0,0,10,4,0,0,0,0,0,0,0,0,0,4
+Artillery,Virginia,Battery Johnson,McIntosh,Walker,Pendleton,Confederate,CPT Marmaduke Johnson,no,96,5,1,0,4,10,2,0,0,0,2,0,0,0,0,0,4
+Artillery,Virginia,Battery Richmond,Pegram,Walker,Pendleton,Confederate,CPT William Crenshaw,no,76,1,14,0,0,15,0,0,0,2,2,0,0,0,0,0,4
+Artillery,Virginia,Battery Fredericksburg,Pegram,Walker,Pendleton,Confederate,CPT Edward Marye,no,71,2,0,0,0,2,0,0,2,0,2,0,0,0,0,0,4
+Artillery,Virginia,Battery Letcher,Pegram,Walker,Pendleton,Confederate,CPT Thomas Brander,no,65,3,11,0,3,17,0,0,2,0,2,0,0,0,0,0,4
+Artillery,South Carolina,Battery Pee Dee,Pegram,Walker,Pendleton,Confederate,LT William Zimmerman,no,65,2,7,0,0,9,4,0,0,0,0,0,0,0,0,0,4
+Artillery,Virginia,Battery Purcell,Pegram,Walker,Pendleton,Confederate,CPT Joseph McGraw,no,89,1,5,0,0,6,0,0,0,0,4,0,0,0,0,0,4
+Cavalry,North Carolina,1st,Hampton,Stuart,Stuart,Confederate,COL Laurence Baker,no,407,2,17,0,25,44,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,South Carolina,1st,Hampton,Stuart,Stuart,Confederate,LTC John Twiggs,no,339,1,9,0,4,14,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,South Carolina,2nd,Hampton,Stuart,Stuart,Confederate,Maj Thomas Jefferson Lipscomb,no,186,2,5,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Georgia,Cobb's  Legion,Hampton,Stuart,Stuart,Confederate,COL Pierce Young,no,325,3,0,2,1,6,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Mississippi,Jeff Davis  Legion,Hampton,Stuart,Stuart,Confederate,LTC Joseph Waring,wounded,245,4,10,0,1,15,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Georgia,Phillips  Legion,Hampton,Stuart,Stuart,Confederate,LTC William Rich,no,238,3,7,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,1st,Fitzhugh  Lee,Stuart,Stuart,Confederate,COL James Drake,no,359,6,7,0,10,23,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,2nd,Fitzhugh  Lee,Stuart,Stuart,Confederate,COL Thomas Munford,no,448,3,6,0,10,19,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,3rd,Fitzhugh  Lee,Stuart,Stuart,Confederate,COL Thomas Owen,no,247,1,8,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,4th,Fitzhugh  Lee,Stuart,Stuart,Confederate,COL Williams Wickham,no,628,0,1,0,32,33,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,5th,Fitzhugh  Lee,Stuart,Stuart,Confederate,COL Thomas Rosser,no,150,,,,,,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,14th,Jenkins,Stuart,Stuart,Confederate,MAJ Benjamin Eakle,no,267,4,2,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,16th,Jenkins,Stuart,Stuart,Confederate,MAJ James Nounnan,no,260,2,2,0,3,7,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,17th,Jenkins,Stuart,Stuart,Confederate,COL William French,no,265,0,2,0,6,8,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,34th  Bn,Jenkins,Stuart,Stuart,Confederate,LTC Vincent Witcher,no,172,,,,,,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,36th  Bn,Jenkins,Stuart,Stuart,Confederate,CPT Cornelius Smith,no,125,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Artillery,Virginia,Battery Jackson,Beckham,Stuart,Stuart,Confederate,CPT Thomas Jackson,no,107,0,5,0,0,5,2,0,0,2,0,0,0,0,0,0,4
+Cavalry,North Carolina,2nd,Chambliss,Stuart,Stuart,Confederate,"CPT William Graham, Jr.",wounded,161,1,2,0,6,9,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,9th,Chambliss,Stuart,Stuart,Confederate,COL Richard Beale,no,558,2,9,0,7,18,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,10th,Chambliss,Stuart,Stuart,Confederate,COL James Davis,no,265,1,9,0,2,12,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,13th,Chambliss,Stuart,Stuart,Confederate,CPT Benjamin Winfield,no,330,1,11,0,5,17,0,0,0,0,0,0,0,0,0,0,0
+Artillery,Virginia,Battery Breathed,Beckham,Stuart,Stuart,Confederate,CPT James Breathed,no,105,0,1,0,0,1,4,0,0,0,0,0,0,0,0,0,4
+Artillery,Virginia,Battery McGregor,Beckham,Stuart,Stuart,Confederate,CPT William McGregor,no,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Georgia,Phillips  Legion,Hampton,Stuart,Stuart,Confederate,LTC William Rich,no,238,3,7,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,1st,Fitzhugh  Lee,Stuart,Stuart,Confederate,COL James Drake,no,359,6,7,0,10,23,0,0,0,0,0,0,0,0,0,0,0
+Cavalry,Virginia,2nd,Fitzhugh  Lee,Stuart,Stuart,Confederate,COL Thomas Munford,no,448,3,6,0,10,19,0,0,0,0,0,0,0,0,0,0,0
