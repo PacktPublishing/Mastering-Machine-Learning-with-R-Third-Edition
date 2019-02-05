@@ -1,5 +1,4 @@
 
-library(keras)
 
 install.packages("forecast")
 
@@ -90,7 +89,7 @@ plot(forecast::forecast(fit.arima, h = 6))
 lines(test, type = "o")
 
 fit.arima %>% forecast::forecast(h = 6) %>%
-  forecast::accuracy(temp_ts)
+  forecast::accuracy(temperature)
 
 forecast::checkresiduals(fit.arima)
 
@@ -124,7 +123,7 @@ fit.arima2 <- forecast::auto.arima(train_bp)
 #lines(test, type = "o")
 
 fit.arima2 %>% forecast::forecast(h = 6) %>%
-  forecast::accuracy(temp_ts)
+  forecast::accuracy(temperature)
 
 forecast::checkresiduals(fit.arima2)
 # VAR ---------------------------------------------------------------------
@@ -179,6 +178,6 @@ aod::wald.test(
 plot(predict(fit2, n.ahead = 24, ci = 0.95))
 
 
-# LSTM --------------------------------------------------------------------
+
 
 
