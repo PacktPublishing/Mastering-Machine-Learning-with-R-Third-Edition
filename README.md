@@ -42,15 +42,7 @@ With the following software and hardware list you can run all code files present
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
 | All | RStudio  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
+
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789618006_ColorImages.pdf).
 
@@ -59,36 +51,18 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * R Deep Learning Essentials - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788992893 ) [[Amazon]](https://www.amazon.com/dp/178899289X)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
 **Cory Lesmeister**
 Cory Lesmeister has over fourteen years of quantitative experience and is currently a senior data scientist for the Advanced Analytics team at Cummins, Inc. in Columbus, Indiana. Cory spent 16 years at Eli Lilly and Company in sales, market research, Lean Six Sigma, marketing analytics, and new product forecasting.
 
-****
-0
-
-****
-0
-
-****
-0
-
-****
-0
 
 ## Other books by the authors
 [Mastering Machine Learning with R](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-r?utm_source=github&utm_medium=repository&utm_campaign=9781783984527 )
 
 [Mastering Machine Learning with R - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-r-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787287471 )
 
-[]()
-
-[]()
-
-[]()
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
