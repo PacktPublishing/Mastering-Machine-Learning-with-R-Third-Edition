@@ -10,12 +10,12 @@ This is the code repository for [Mastering Machine Learning with R - Third Editi
 <span class="sugar_field" id="description">Given the growing popularity of R-zero-cost statistical programming environment, there has never been a better time to start applying ML to your data. This book will teach you advanced techniques in ML with the latest code in R 3.5. You will delve into various complex features of supervised learning, unsupervised learning and reinforcement learning algorithms to design efficient and powerful ML models.</span>
 
 This book covers the following exciting features:
-Prepare data for machine learning methods with ease 
-Learn to write production-ready code and package it for use 
-Produce simple and effective data visualizations for improved insights 
-Master advanced methods such as Boosted Trees and deep neural networks 
-Use natural language processing to extract insights for text 
-Implement tree-based classifiers including Random Forest and Boosted Tree 
+*Prepare data for machine learning methods with ease 
+*Learn to write production-ready code and package it for use 
+*Produce simple and effective data visualizations for improved insights 
+*Master advanced methods such as Boosted Trees and deep neural networks 
+*Use natural language processing to extract insights for text 
+*Implement tree-based classifiers including Random Forest and Boosted Tree 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789618002) today!
 
@@ -55,10 +55,10 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Cory Lesmeister**
-Cory Lesmeister has over fourteen years of quantitative experience and is currently a senior data scientist for the Advanced Analytics team at Cummins, Inc. in Columbus, Indiana. Cory spent 16 years at Eli Lilly and Company in sales, market research, Lean Six Sigma, marketing analytics, and new product forecasting.
+has over fourteen years of quantitative experience and is currently a senior data scientist for the Advanced Analytics team at Cummins, Inc. in Columbus, Indiana. Cory spent 16 years at Eli Lilly and Company in sales, market research, Lean Six Sigma, marketing analytics, and new product forecasting.
 
 
-## Other books by the authors
+## Other books by the author
 [Mastering Machine Learning with R](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-r?utm_source=github&utm_medium=repository&utm_campaign=9781783984527 )
 
 [Mastering Machine Learning with R - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-r-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787287471 )
